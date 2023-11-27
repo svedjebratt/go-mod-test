@@ -5,8 +5,8 @@ import (
     "os"
     "io"
 
-    "github.com/amitsaha/using-go-modules/greetings/hello"
-    "github.com/amitsaha/using-go-modules/greetings/world"
+    "github.com/svedjebratt/go-mod-test/greetings/hello"
+    "github.com/svedjebratt/go-mod-test/greetings/world"
 )
 
 func displayGreetings(w io.Writer) {
