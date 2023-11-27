@@ -1,3 +1,3 @@
-module github.com/svedjebratt/using-go-modules/greetings
+module github.com/svedjebratt/go-mod-test/greetings
 
 go 1.16
