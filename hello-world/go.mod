@@ -1,3 +1,3 @@
-module github.com/username/hello-world
+module github.com/svedjebratt/hello-world
 
 go 1.16

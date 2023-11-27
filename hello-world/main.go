@@ -5,8 +5,8 @@ import (
     "os"
     "io"
 
-    "github.com/amitsaha/hello-world/hello"
-    "github.com/amitsaha/hello-world/world"
+    "github.com/svedjebratt/hello-world/hello"
+    "github.com/svedjebratt/hello-world/world"
 )
 
 func displayGreetings(w io.Writer) {
